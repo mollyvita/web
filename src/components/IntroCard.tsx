@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { motion } from 'framer-motion'
-import Transparentpfp from '@images/in_mac.png'
+import Transparentpfp from '@images/icon.png'
 const IntroCard = ({ section }) => {
 	return (
 		<motion.div
