@@ -8,7 +8,6 @@ import { useState } from "react";
 
 import OnlineCard from "@/components/OnlineCard";
 import TimeCard from "@/components/TimeCard";
-import SwiftDen from "@/components/SwiftDen";
 
 function Home() {
   const [section, setSection] = useState("all");
@@ -27,8 +26,6 @@ function Home() {
         <MailCard section={section} />
         <TimeCard section={section} />
         <DiscordCard section={section} />
-        <SwiftDen section={section} />
-        
       </div>
     </div>
   );
