@@ -3,7 +3,7 @@ import { useEffect, useRef } from "react";
 
 function DayComponent() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
-  const time = new Date().toLocaleTimeString("en-GB", {
+  const time = new Date().toLocaleTimeString("ru-RU", {
     hour: "numeric",
     minute: "numeric",
     hour12: true,
@@ -16,7 +16,7 @@ function DayComponent() {
           <div className="rounded-full bg-white w-2 h-2 md:w-5 md:h-5"></div>
           <div className="flex flex-col">
             <div className="text-white font-bold text-sm md:text-2xl xl:text-4xl">{time}</div>
-            <div className="text-white font-thin -mt-2 text-sm md:text-lg xl:text-2xl">in the uk</div>
+            <div className="text-white font-thin -mt-2 text-sm md:text-lg xl:text-2xl">at home </div>
           </div>
         </div>
       </div>
