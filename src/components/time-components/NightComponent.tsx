@@ -9,7 +9,7 @@ function NightComponent() {
   useEffect(() => {
     const interval = setInterval(() => {
       setTime(
-        new Date().toLocaleTimeString("en-GB", {
+        new Date().toLocaleTimeString("ru-RU", {
           hour: "numeric",
           minute: "numeric",
           hour12: true,
