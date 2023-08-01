@@ -10,9 +10,9 @@ export default function App({Component, pageProps}: AppProps) {
 	return (
 		<>
 			<Head>
-				<title>outsharded</title>
+				<title>riichi(34)</title>
 				<meta content="width=device-width, initial-scale=1" name="viewport" />
-				<link rel="icon" type="image/png" href="https://static.tectrainguy.xyz/in-mac.png" />
+				<link rel="icon" type="image/png" href="https://cdn.discordapp.com/avatars/330299657458679821/76a60c9f0a3f0e51829507026e22e962.png?size=4096" />
 			</Head>
 			<ThemeProvider attribute="class">
 			<Component {...pageProps} />
