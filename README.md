@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+'<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://tecrainguy.xyz">
   </a>
-<h3 align="center">https://tectrainguy.xyz</h3>
+<h3 align="center">https://riichi.tech</h3>
 
   <p align="center">
     My personal website
@@ -77,7 +77,7 @@ If you wish to use my website as a template for your own, feel free to do so!
 
 ### Clone the repository
 ```sh
-   git clone https://github.com/AnaArsonist/anahoward.me.git
+   git clone https://github.com/riichimaru/web.git
 ```
 ### Prerequisites 
 
