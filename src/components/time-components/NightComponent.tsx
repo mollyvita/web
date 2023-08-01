@@ -60,7 +60,7 @@ function NightComponent() {
               {time}
             </div>
             <div className="text-white text-sm md:text-lg xl:text-2xl font-thin -mt-2">
-              in the uk
+              in my city
             </div>
           </div>
         </div>
