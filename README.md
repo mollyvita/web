@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://tecrainguy.xyz">
+  <a href="https://riichi.tech">
   </a>
 <h3 align="center">https://riichi.tech</h3>
 
