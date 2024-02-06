@@ -38,15 +38,15 @@ const IntroCard = ({ section }) => {
 					>
 						<Image className="dark:brightness-90" src={Transparentpfp} alt='icon'/>{' '}
 					</motion.div>
-					<div className="text-3xl md:text-4xl 2xl:text-4xl 2xl:mt-16 m-6 md:ml-6 ml-5 md:m-8 font-nunito font-bold">Hi, I&apos;m riichi!</div>
+					<div className="text-3xl md:text-4xl 2xl:text-4xl 2xl:mt-16 m-6 md:ml-6 ml-5 md:m-8 font-nunito font-bold">riichi!</div>
 				</div>
 				<div className="flex flex-col ml-5 justify-center 2xl:mt-10 sm:-mt-6 sm:ml-8 md:ml-6">
 					<div className="lg:text-xl xl:text-2xl 2xl:mr-20 font-nunito dark:text-gray-300">
 						{' '}
-						I&apos;m a young developer from Russia!
+						i&apos;m a young dev from russia!
 					</div>
 					<div className="flex lg:text-xl xl:text-2xl 2xl:text-2xl font-base dark:text-gray-300 mt-5">
-					I develop strange stuff for Discord client mods like Vendetta. I love Linux, DevOps, Pentesting and Social Engineering.					</div>
+					i create small silly things. i love linux, pentesting and making people happy.					</div>
 				</div>
 			</div>
 		</motion.div>
