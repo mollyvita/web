@@ -13,6 +13,7 @@ function Home() {
   const [section, setSection] = useState("all");
   return (
     <div className="flex flex-col m-5 font-nunito">
+      <a rel="me" href="https://wetdry.world/@riichi">Mastodon</a>
       <NavBar setSection={setSection} />
       <div
         className="grid grid-cols-3 gap-2 md:grid-cols-4 
