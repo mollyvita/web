@@ -10,9 +10,10 @@ export default function App({Component, pageProps}: AppProps) {
 	return (
 		<>
 			<Head>
-				<title>riichi(34)</title>
+				<title>riichi</title>
 				<meta content="width=device-width, initial-scale=1" name="viewport" />
-				<link rel="icon" type="image/png" href="https://cdn.discordapp.com/avatars/330299657458679821/76a60c9f0a3f0e51829507026e22e962.png?size=4096" />
+				<a rel="me" href="https://wetdry.world/@riichi"></a>
+				<link rel="icon" type="image/png" href="https://cdn.discordapp.com/avatars/920329543187832912/8391de39e6e43b8e7a3b6b2ca0f73b84.png?size=4096" />
 			</Head>
 			<ThemeProvider attribute="class">
 			<Component {...pageProps} />
